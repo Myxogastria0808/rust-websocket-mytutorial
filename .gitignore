@@ -1,3 +1,7 @@
+# Rust
+/server/target
+/client/target
+
 # Nix
 /.direnv
 
